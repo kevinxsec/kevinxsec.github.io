@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "how-this-blog-works",
+    "title": "How This Blog Works (and a Markdown Feature Tour)",
+    "date": "2026-10-20",
+    "updated": null,
+    "description": "A tour of every Markdown feature this site supports: code blocks, terminal output, tables, callouts, images and captions. Doubles as a reference while writing.",
+    "category": "notes",
+    "platform": null,
+    "difficulty": null,
+    "tags": [
+      "meta",
+      "markdown"
+    ],
+    "featured": true,
+    "cover": null,
+    "readingTime": 2
+  },
+  {
+    "slug": "jwt-algorithm-confusion",
+    "title": "JWT Algorithm Confusion: How It Happens and How to Prevent It",
+    "date": "2026-10-18",
+    "updated": null,
+    "description": "Why trusting the alg header in a JSON Web Token lets attackers forge tokens, a minimal vulnerable verifier, a demonstration, and the fix.",
+    "category": "research",
+    "platform": null,
+    "difficulty": null,
+    "tags": [
+      "web",
+      "jwt",
+      "authentication"
+    ],
+    "featured": false,
+    "cover": null,
+    "readingTime": 1
+  },
+  {
+    "slug": "htb-sample-lantern",
+    "title": "Sample HTB Writeup: Lantern (Fictional Linux Box)",
+    "date": "2026-10-12",
+    "updated": null,
+    "description": "A template walkthrough for a fictional Easy Linux machine: virtual host discovery, a path traversal that leaks credentials, and a sudo misconfiguration.",
+    "category": "writeup",
+    "platform": "HTB",
+    "difficulty": "Easy",
+    "tags": [
+      "linux",
+      "web",
+      "path-traversal",
+      "privilege-escalation",
+      "sample",
+      "htb"
+    ],
+    "featured": true,
+    "cover": null,
+    "readingTime": 2
+  },
+  {
+    "slug": "nmap-scanning-workflow",
+    "title": "A Practical Nmap Workflow for Lab Machines",
+    "date": "2026-10-08",
+    "updated": null,
+    "description": "A fast two-stage Nmap workflow for lab targets: find open ports quickly, then run detailed scripts only where it matters, with notes on what each flag does.",
+    "category": "tutorial",
+    "platform": null,
+    "difficulty": null,
+    "tags": [
+      "nmap",
+      "enumeration",
+      "networking"
+    ],
+    "featured": false,
+    "cover": null,
+    "readingTime": 1
+  },
+  {
+    "slug": "thm-sample-sql-injection-room",
+    "title": "Sample THM Writeup: A Login Form and Union-Based SQL Injection",
+    "date": "2026-10-05",
+    "updated": null,
+    "description": "A template for a TryHackMe room writeup, walking through authentication bypass and UNION-based SQL injection against a deliberately vulnerable login.",
+    "category": "writeup",
+    "platform": "THM",
+    "difficulty": "Easy",
+    "tags": [
+      "web",
+      "sql-injection",
+      "sample",
+      "thm"
+    ],
+    "featured": false,
+    "cover": null,
+    "readingTime": 1
+  },
+  {
+    "slug": "offsec-lab-methodology-notes",
+    "title": "Sample OffSec Notes: A Repeatable Enumeration Methodology",
+    "date": "2026-09-28",
+    "updated": null,
+    "description": "A template for OffSec lab study notes: a structured enumeration checklist, note-taking layout and time-boxing rules that keep lab work organised.",
+    "category": "notes",
+    "platform": "OffSec",
+    "difficulty": null,
+    "tags": [
+      "methodology",
+      "enumeration",
+      "study-notes",
+      "sample",
+      "offsec"
+    ],
+    "featured": false,
+    "cover": null,
+    "readingTime": 1
+  },
+  {
+    "slug": "linux-privilege-escalation-checklist",
+    "title": "Linux Privilege Escalation Checklist",
+    "date": "2026-09-22",
+    "updated": null,
+    "description": "A short, ordered checklist for local privilege escalation enumeration on Linux lab machines: sudo, SUID binaries, cron, capabilities and writable paths.",
+    "category": "notes",
+    "platform": null,
+    "difficulty": null,
+    "tags": [
+      "linux",
+      "privilege-escalation",
+      "checklist"
+    ],
+    "featured": false,
+    "cover": null,
+    "readingTime": 1
+  },
+  {
+    "slug": "sample-recon-helper",
+    "title": "Sample Project: A Small Recon Notes Helper",
+    "date": "2026-09-15",
+    "updated": null,
+    "description": "A template for a personal-project post: the problem, the design, a short script that creates a per-target notes directory, and what to improve next.",
+    "category": "project",
+    "platform": null,
+    "difficulty": null,
+    "tags": [
+      "bash",
+      "tooling",
+      "sample"
+    ],
+    "featured": true,
+    "cover": null,
+    "readingTime": 1
+  }
+]

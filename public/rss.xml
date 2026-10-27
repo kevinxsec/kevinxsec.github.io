@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kevinxsec</title>
+    <link>https://kevinxsec.github.io/</link>
+    <description>Security research, penetration-testing lab writeups, and technical notes by kevinxsec.</description>
+    <language>en</language>
+    <atom:link href="https://kevinxsec.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>How This Blog Works (and a Markdown Feature Tour)</title>
+      <link>https://kevinxsec.github.io/blog/how-this-blog-works/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/how-this-blog-works/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A tour of every Markdown feature this site supports: code blocks, terminal output, tables, callouts, images and captions. Doubles as a reference while writing.</description>
+      <category>Notes</category>
+      <category>meta</category>
+      <category>markdown</category>
+    </item>
+    <item>
+      <title>JWT Algorithm Confusion: How It Happens and How to Prevent It</title>
+      <link>https://kevinxsec.github.io/blog/jwt-algorithm-confusion/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/jwt-algorithm-confusion/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why trusting the alg header in a JSON Web Token lets attackers forge tokens, a minimal vulnerable verifier, a demonstration, and the fix.</description>
+      <category>Research</category>
+      <category>web</category>
+      <category>jwt</category>
+      <category>authentication</category>
+    </item>
+    <item>
+      <title>Sample HTB Writeup: Lantern (Fictional Linux Box)</title>
+      <link>https://kevinxsec.github.io/blog/htb-sample-lantern/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/htb-sample-lantern/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A template walkthrough for a fictional Easy Linux machine: virtual host discovery, a path traversal that leaks credentials, and a sudo misconfiguration.</description>
+      <category>Writeups</category>
+      <category>linux</category>
+      <category>web</category>
+      <category>path-traversal</category>
+      <category>privilege-escalation</category>
+      <category>sample</category>
+      <category>htb</category>
+    </item>
+    <item>
+      <title>A Practical Nmap Workflow for Lab Machines</title>
+      <link>https://kevinxsec.github.io/blog/nmap-scanning-workflow/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/nmap-scanning-workflow/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A fast two-stage Nmap workflow for lab targets: find open ports quickly, then run detailed scripts only where it matters, with notes on what each flag does.</description>
+      <category>Tutorials</category>
+      <category>nmap</category>
+      <category>enumeration</category>
+      <category>networking</category>
+    </item>
+    <item>
+      <title>Sample THM Writeup: A Login Form and Union-Based SQL Injection</title>
+      <link>https://kevinxsec.github.io/blog/thm-sample-sql-injection-room/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/thm-sample-sql-injection-room/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A template for a TryHackMe room writeup, walking through authentication bypass and UNION-based SQL injection against a deliberately vulnerable login.</description>
+      <category>Writeups</category>
+      <category>web</category>
+      <category>sql-injection</category>
+      <category>sample</category>
+      <category>thm</category>
+    </item>
+    <item>
+      <title>Sample OffSec Notes: A Repeatable Enumeration Methodology</title>
+      <link>https://kevinxsec.github.io/blog/offsec-lab-methodology-notes/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/offsec-lab-methodology-notes/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A template for OffSec lab study notes: a structured enumeration checklist, note-taking layout and time-boxing rules that keep lab work organised.</description>
+      <category>Notes</category>
+      <category>methodology</category>
+      <category>enumeration</category>
+      <category>study-notes</category>
+      <category>sample</category>
+      <category>offsec</category>
+    </item>
+    <item>
+      <title>Linux Privilege Escalation Checklist</title>
+      <link>https://kevinxsec.github.io/blog/linux-privilege-escalation-checklist/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/linux-privilege-escalation-checklist/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A short, ordered checklist for local privilege escalation enumeration on Linux lab machines: sudo, SUID binaries, cron, capabilities and writable paths.</description>
+      <category>Notes</category>
+      <category>linux</category>
+      <category>privilege-escalation</category>
+      <category>checklist</category>
+    </item>
+    <item>
+      <title>Sample Project: A Small Recon Notes Helper</title>
+      <link>https://kevinxsec.github.io/blog/sample-recon-helper/</link>
+      <guid isPermaLink="true">https://kevinxsec.github.io/blog/sample-recon-helper/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A template for a personal-project post: the problem, the design, a short script that creates a per-target notes directory, and what to improve next.</description>
+      <category>Projects</category>
+      <category>bash</category>
+      <category>tooling</category>
+      <category>sample</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" width="760" height="200" font-family="ui-monospace, monospace" font-size="14">
+  <rect width="760" height="200" fill="#f6f4fb"/>
+  <g fill="#fff" stroke="#6d4fc2" stroke-width="1.5">
+    <rect x="20" y="70" width="150" height="60" rx="6"/><rect x="215" y="70" width="150" height="60" rx="6"/>
+    <rect x="410" y="70" width="150" height="60" rx="6"/><rect x="605" y="70" width="135" height="60" rx="6"/>
+  </g>
+  <g fill="#2a2140" text-anchor="middle">
+    <text x="95" y="105">content/*.md</text><text x="290" y="105">validate</text>
+    <text x="485" y="105">render HTML</text><text x="672" y="105">GitHub Pages</text>
+  </g>
+  <g stroke="#6d4fc2" stroke-width="1.5" marker-end="url(#a)"><path d="M172 100h38"/><path d="M367 100h38"/><path d="M562 100h38"/></g>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#6d4fc2"/></marker></defs>
+</svg>

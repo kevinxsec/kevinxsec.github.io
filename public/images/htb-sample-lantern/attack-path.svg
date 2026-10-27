@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" width="760" height="220" font-family="ui-monospace, monospace" font-size="13">
+  <rect width="760" height="220" fill="#f6f4fb"/>
+  <g fill="#fff" stroke="#6d4fc2" stroke-width="1.5">
+    <rect x="20" y="80" width="160" height="60" rx="6"/><rect x="215" y="80" width="160" height="60" rx="6"/>
+    <rect x="410" y="80" width="160" height="60" rx="6"/><rect x="605" y="80" width="135" height="60" rx="6"/>
+  </g>
+  <g fill="#2a2140" text-anchor="middle">
+    <text x="100" y="106">nmap: 22, 80</text><text x="100" y="124">vhost found</text>
+    <text x="295" y="106">path traversal</text><text x="295" y="124">read config</text>
+    <text x="490" y="106">SSH as svc</text><text x="490" y="124">reused creds</text>
+    <text x="672" y="106">sudo tar</text><text x="672" y="124">root</text>
+  </g>
+  <g stroke="#6d4fc2" stroke-width="1.5" marker-end="url(#a)"><path d="M182 110h28"/><path d="M377 110h28"/><path d="M572 110h28"/></g>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#6d4fc2"/></marker></defs>
+</svg>
